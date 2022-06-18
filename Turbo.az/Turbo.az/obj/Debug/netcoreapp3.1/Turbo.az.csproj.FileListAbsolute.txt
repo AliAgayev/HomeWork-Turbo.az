@@ -1,0 +1,13 @@
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.exe
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.deps.json
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.runtimeconfig.json
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.runtimeconfig.dev.json
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.dll
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\bin\Debug\netcoreapp3.1\Turbo.az.pdb
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.csproj.AssemblyReference.cache
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.AssemblyInfoInputs.cache
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.AssemblyInfo.cs
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.csproj.CoreCompileInputs.cache
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.dll
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.pdb
+C:\Users\Agayev\source\repos\Turbo.az\Turbo.az\obj\Debug\netcoreapp3.1\Turbo.az.genruntimeconfig.cache
